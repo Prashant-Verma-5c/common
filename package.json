@@ -1,0 +1,8 @@
+{
+  "name": "common",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Prashant-Verma-5c/common.git",
+  "author": "Prashant-Verma-5c <prashant.verma@5cnetwork.com>",
+  "license": "MIT"
+}
